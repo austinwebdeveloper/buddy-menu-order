@@ -1,0 +1,90 @@
+onlineorder(OO) addons for foodpress Plugin
+====================================
+v 1.3.2 (2016-6-28)
+FIXED: Adding quantity on menu add to cart open lightbox
+
+v 1.3.1 (2016-6-2)
+FIXED: Menu Items Click for Double Animation Issue
+ADDED: Some style changes
+
+v 1.3 (2016-2-13)
+ADDED: Option to show variable price as a range of from value
+FIXED: SSL Support for styles to load on https safe urls
+FIXED: ux none menu to be able to open lightbox for select options
+FIXED: close lightbox after adding to cart make page header margin increase
+FIXED: Sales price not showing when saved via menu items
+FIXED: showing same price range for variable menu items
+FIXED: Variable items price range not working
+FIXED: Duplicating menu items not make new matching WC product
+FIXED: Add to cart button to be hidden in lightbox when required options not selected
+UPDATED: price adjustment function be available for both front and back end
+UPDATED: Variable items order options be already open when clicked on menu
+TESTED: Store close times work just fine
+
+v 1.2.3 (2016-1-11)
+FIXED: 404 error when adding items to cart, adjusted per WC URL update
+
+v 1.2.2 (2015-10-16)
+FIXED: Variations attributes not working 
+
+v 1.2.1 (2015-9-21)
+ADDED: Ability to set quantity for add to cart items off menu
+UPDATED: be able to add to cart multiple times from menu
+FIXED: Language translations missing on add to cart section
+
+v 1.2 (2015-8-20)
+FIXED: Compatibility with WooCommerce version 2.4 for Variable Products
+
+v 1.1.1 (2015-4-25)
+FIXED: Widget carts not updating after adding item to cart dynamically
+
+v 1.1 (2015-4-8)
+ADDED: Support for WC Products addon
+ADDED: Jquery trigger hooks for adding to cart
+FIXED: shortcode not working
+FIXED: Missiong appearance settings resolved
+FIXED: Minor bugs
+
+v 1.0 (2015-3-15)
+ADDED: Menu item featured image to be added to WC product
+ADDED: Ability to set product visibility in WC catalog
+ADDED: Edit menu item button to WC Product edit page
+ADDED: Menu item description to be added to WC Product
+ADDED: Option to redirect to checkout page after adding to cart
+ADDED: option to close popup menu after adding to cart
+ADDED: Direct add to cart button to menu items via shortcode - addcart=yes
+ADDED: support for Subtitle on order online section on menu item
+ADDED: New order online settings page to foodpress settings
+ADDED: Store close hours via settings
+FIXED: get price error when activated
+FIXED: Compatibility with woocommerce 2.3.5
+FIXED: Variable products not adding to cart correctly
+FIXED: Incorrect default button background and text color
+UPDATED: styles for add to cart section
+
+v 0.7 (2014-9-15)
+FIXED: check foodpress and woocommerce function updated
+
+v 0.6 (2014-8-20)
+FIXED: attribute orderby error on WC
+FIXED: Bug when creating new menu item
+FIXED: Variable product menu item in lightbox now showing view cart after adding to cart
+
+v 0.5 (2014-8-12)
+FIXED: Minor bug fixed - addon_has_new_version()
+
+v 0.4 (2014-8-11)
+FIXED: minor WC error on product front end
+FIXED: No foodpress notification error
+
+v 0.3 (2014-5-7)
+FIXED: compatibility to foodpress 1.1.5
+UPDATED: variable products not showing notification when added to cart
+
+v 0.2
+UPDATED: to move woocommerce product when associated menu item is trashed
+FIXED: compatibility with foodpress 1.1.4
+FIXED: Minor bugs
+
+v 0.1
+Initial release
